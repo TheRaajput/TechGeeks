@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TechGeeks</string>
+    <string name="action_logoutBtn">LogOut</string>
+    <string name="account_setting" />
+    <string name="account_settingBtn">Account Settings</string>
+    <string name="search_btn">Search</string>
+    <string name="setup_name_hint">Name</string>
+    <string name="main_postBtn">Post</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom" />
+    <string name="bottom_home_notification">Notification</string>
+    <string name="Bottom_ac_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bottom_ac_text">Account</string>
+    <string name="bottom_notification_text">Notification</string>
+    <string name="card_username">Username</string>
+    <string name="card_time">Post Date</string>
+</resources>

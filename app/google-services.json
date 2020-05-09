@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920248525391",
+    "firebase_url": "https://techgeeks-a26d4.firebaseio.com",
+    "project_id": "techgeeks-a26d4",
+    "storage_bucket": "techgeeks-a26d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920248525391:android:abcafdbb6a9708a9be803a",
+        "android_client_info": {
+          "package_name": "com.yasharth.techgeeks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920248525391-ucfsjg5hbn9k51vl1p385rsqueko3r39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkcU25WcdLfUbhRMOfZ1ND0_At4P8lmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920248525391-ucfsjg5hbn9k51vl1p385rsqueko3r39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
